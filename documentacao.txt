@@ -1,0 +1,6 @@
+Usei os Comando: git clone, git add, git push, git commit -m.
+Usei o git clone para clonar o repositorio para o meu computador.
+Criei um arquivo usei o editor de texto para criar o arquivo.
+Usei o git add para adicionar o arquivo criado fiz o commit com git commit -m e envie para o github git push.
+E agora estou criando esse arquivo.
+Achei dificil mais consegui fazer
